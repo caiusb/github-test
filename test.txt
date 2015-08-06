@@ -3,3 +3,5 @@ Here is a simple test file.
 I will use this to test the responses of the GitHub API.
 
 I will add some extra content and then send a pull request.
+
+This is for the rebase example
